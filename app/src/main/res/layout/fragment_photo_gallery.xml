@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--主 fragment 的 Layout-->
+<androidx.recyclerview.widget.RecyclerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/photo_recycler_view"
+    tools:context=".PhotoGalleryActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</androidx.recyclerview.widget.RecyclerView>
